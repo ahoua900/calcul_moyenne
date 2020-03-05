@@ -75,6 +75,7 @@ namespace codesignal
                        dico.Add(name, moyenneGenerale);
                     Console.WriteLine("la somme de vos notes est " + totalNotes);
                     Console.WriteLine("Votre moyenne generale est de" + " " + moyenneGenerale + "/20");
+
                     if (moyenneGenerale >=0 && moyenneGenerale<=10 )
                     {
                         Console.WriteLine("votre niveau est PASSABLE remettez vous au travail");
@@ -97,7 +98,7 @@ namespace codesignal
                 }
                 foreach (var item in dico)
                 {
-                    Console.WriteLine("l'eleve {0} : a comme moyenne de {1}/20", item.Key, item.Value);
+                    Console.WriteLine("l'eleve {0} : a la moyenne de {1}/20", item.Key, item.Value);
                 }
             }
         }
