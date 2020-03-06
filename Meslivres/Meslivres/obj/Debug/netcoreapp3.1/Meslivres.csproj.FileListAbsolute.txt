@@ -1,0 +1,11 @@
+/Users/nan/Projects/Meslivres/Meslivres/bin/Debug/netcoreapp3.1/Meslivres
+/Users/nan/Projects/Meslivres/Meslivres/bin/Debug/netcoreapp3.1/Meslivres.deps.json
+/Users/nan/Projects/Meslivres/Meslivres/bin/Debug/netcoreapp3.1/Meslivres.runtimeconfig.json
+/Users/nan/Projects/Meslivres/Meslivres/bin/Debug/netcoreapp3.1/Meslivres.runtimeconfig.dev.json
+/Users/nan/Projects/Meslivres/Meslivres/bin/Debug/netcoreapp3.1/Meslivres.dll
+/Users/nan/Projects/Meslivres/Meslivres/bin/Debug/netcoreapp3.1/Meslivres.pdb
+/Users/nan/Projects/Meslivres/Meslivres/obj/Debug/netcoreapp3.1/Meslivres.csprojAssemblyReference.cache
+/Users/nan/Projects/Meslivres/Meslivres/obj/Debug/netcoreapp3.1/Meslivres.AssemblyInfoInputs.cache
+/Users/nan/Projects/Meslivres/Meslivres/obj/Debug/netcoreapp3.1/Meslivres.AssemblyInfo.cs
+/Users/nan/Projects/Meslivres/Meslivres/obj/Debug/netcoreapp3.1/Meslivres.dll
+/Users/nan/Projects/Meslivres/Meslivres/obj/Debug/netcoreapp3.1/Meslivres.pdb

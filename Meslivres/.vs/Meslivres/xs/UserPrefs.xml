@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{6810770C-E7D9-4725-A872-4BEB73734CD8}|Default">
+  <MonoDevelop.Ide.ItemProperties.Meslivres FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Meslivres/Books.cs">
+    <Files>
+      <File FileName="Meslivres/Program.cs" Line="9" Column="13" />
+      <File FileName="Meslivres/Books.cs" Line="7" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Meslivres" expanded="True">
+            <Node name="Meslivres" expanded="True">
+              <Node name="Books.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
